@@ -40,7 +40,7 @@ Body Section
 New Products
 -->
 		<div class="well well-small">
-			<h3>New Books</h3>
+			<h3>Sách mới</h3>
 			<hr class="soften" />
 			<div class="row-fluid">
 				<div id="newProductCar" class="carousel slide">
