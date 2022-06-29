@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/BookShop/Controller/User/UserController.java=UTF-8
+encoding//src/main/java/BookShop/DAO/CartDAO.java=UTF-8
+encoding//src/main/java/BookShop/DAO/ProductsDAO.java=UTF-8
+encoding//src/main/java/BookShop/Service/User/AccountServiceImpl.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/layouts/user/sidebar.jsp=UTF-8
